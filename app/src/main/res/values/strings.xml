@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">DT3</string>
+    <string name="popular_categories">Popular Categories</string>
+    <string name="popular_districts">Popular Districts</string>
+    <string name="view_all">View All</string>
+    <string name="cat_chi">Chinese</string>
+    <string name="cat_ind">Indian</string>
+    <string name="cat_ita">Italian</string>
+    <string name="cat_tha">Thai</string>
+    <string name="cat_fre">French</string>
+    <string name="dis_bug">Bugis</string>
+    <string name="dis_gey">Geylang</string>
+    <string name="dis_ser">Serangoon</string>
+    <string name="dis_sen">Sengkang</string>
+    <string name="dis_yis">Yishun</string>
+</resources>
